@@ -1,81 +1,69 @@
-<img src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/banner/banner.png" />
+<h1 align="center">Ruanderson Vieira</h1>
 
-# 👨‍💻 Ruanderson Vieira
+<p align="center">
+  <strong>Senior Software Engineer</strong> · React · React Native · Node.js · Scalable Architectures
+</p>
 
-Senior Software Engineer focused on **React, React Native and scalable architectures**.
-
-I build **high-performance applications** for fintechs and healthtechs, working across frontend, mobile and backend with strong focus on **performance, scalability and system design**.
-
----
-
-## 🚀 About me
-
-- Senior Software Engineer with +10 years of experience
-- Strong expertise in **React, Next.js and React Native**
-- Experience building **high-availability systems in fintech and healthtech**
-- Focus on **performance optimization (Core Web Vitals, rendering, scalability)**
-- Experience with **micro-frontends, BFF and microservices architecture**
-- Working with **AI integrations (LLMs) and modern SaaS platforms**
-- Background in **mentoring and technical decision-making**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruandersonvieira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ruanderson@accalia.io"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🧠 Tech Stack
+10+ years building high-performance applications for **fintechs and healthtechs**, across frontend, mobile and backend. I care about systems that stay up, load fast and are still readable six months later.
 
-### Frontend & Mobile
-- React.js, Next.js
-- React Native (iOS & Android)
-- TypeScript, JavaScript (ES6+)
-- Tailwind, Styled Components
+## What I do
 
-### Backend
-- Node.js (Fastify, Express)
-- GraphQL, REST APIs
+- **Architecture** that scales: micro-frontends, BFF, microservices
+- **Frontend performance**: Core Web Vitals, rendering, bundle size
+- **Design Systems** teams actually reuse
+- **End-to-end SaaS**: from schema to app store
+- **LLM integrations** in production, not demos
+- **Mentoring** and technical decision-making
 
-### Architecture
-- Micro-frontends
-- BFF (Backend for Frontend)
-- Microservices
+## Tech
 
-### Database
-- PostgreSQL, MongoDB, MySQL, Redis
+**Frontend & Mobile**
 
-### Cloud & DevOps
-- AWS (Lambda, EC2, S3, Cognito)
-- Docker, CI/CD (GitHub Actions)
-- Vercel, Netlify
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
-### Others
-- Performance Optimization
-- Design Systems
-- AI (LLMs, automation)
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🏗️ What I focus on
+**Data**
 
-- Building scalable and maintainable architectures
-- Improving frontend performance and user experience
-- Creating reusable and consistent Design Systems
-- Delivering end-to-end SaaS platforms
-- Solving complex problems in high-scale environments
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+**Cloud & DevOps**
 
-## 📊 GitHub Stats
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&show_icons=true&theme=synthwave)
+## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact&theme=synthwave)
-
----
-
-## 🌐 Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruandersonvieira/)](https://www.linkedin.com/in/ruandersonvieira/)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=86400&theme=synthwave" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact&hide_border=true&cache_seconds=86400&theme=synthwave" alt="Top languages" />
+</p>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ruandersonvieira.ruandersonvieira)
-
-⭐️ From [ruandersonvieira](https://github.com/ruandersonvieira)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ruandersonvieira.ruandersonvieira" alt="Visitors" />
+</p>
