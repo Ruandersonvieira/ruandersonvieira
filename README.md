@@ -9,6 +9,10 @@
   <a href="mailto:ruanderson@accalia.io"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ruandersonvieira.ruandersonvieira" alt="Visitors" />
+</p>
+
 ---
 
 10+ years building high-performance applications for **fintechs and healthtechs**, across frontend, mobile and backend. I care about systems that stay up, load fast and are still readable six months later.
@@ -57,13 +61,4 @@
 
 ## Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruandersonvieira&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=86400&theme=synthwave" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruandersonvieira&hide=TeX&layout=compact&hide_border=true&cache_seconds=86400&theme=synthwave" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ruandersonvieira.ruandersonvieira" alt="Visitors" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ruandersonvieira)
