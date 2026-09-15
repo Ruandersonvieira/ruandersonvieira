@@ -1,7 +1,7 @@
 <h1 align="center">Ruanderson Vieira</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer</strong> · React · React Native · Node.js · Scalable Architectures
+  <strong>Full Stack Mobile Engineer</strong> · React · React Native · Node.js
 </p>
 
 <p align="center">
